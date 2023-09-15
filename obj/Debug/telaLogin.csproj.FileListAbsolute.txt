@@ -1,0 +1,11 @@
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\bin\Debug\telaLogin.exe.config
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\bin\Debug\telaLogin.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\bin\Debug\telaLogin.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.Properties.Resources.resources
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.csproj.GenerateResource.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.exe
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.pdb
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.Form1.resources
+C:\Users\cliente\Desktop\Programação\c#\cursos\youtube\tiagoA.Silva\telaLogin\obj\Debug\telaLogin.Formulario.resources
